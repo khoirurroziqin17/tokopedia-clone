@@ -1,0 +1,788 @@
+[
+  {
+    "id": 1,
+    "title": "Promo",
+    "items": [
+      {
+        "id": 1,
+        "name": "Bebas Ongkir",
+        "link": "discovery/bebas-ongkir"
+      },
+      {
+        "id": 2,
+        "name": "Waktu Indonesia Belanja",
+        "link": "discovery/waktu-indonesia-belanja"
+      },
+      {
+        "id": 3,
+        "name": "Waktu Indonesia Belanja TV Show",
+        "link": "discovery/waktu-indonesia-belanja-tv-show"
+      },
+      {
+        "id": 4,
+        "name": "Kejar Diskon",
+        "link": "discovery/kejar-diskon"
+      },
+      {
+        "id": 5,
+        "name": "Flash Sale",
+        "link": "discovery/flash-sale"
+      },
+      {
+        "id": 6,
+        "name": "Promo Pengguna Baru",
+        "link": "discovery/pengguna-baru"
+      },
+      {
+        "id": 7,
+        "name": "Tokopedia Nyam",
+        "link": "discovery/tokopedia-nyam"
+      },
+      {
+        "id": 8,
+        "name": "Bangga Buatan Indonesia",
+        "link": "discovery/bangga-buatan-indonesia"
+      },
+      {
+        "id": 9,
+        "name": "Supermarket Week",
+        "link": "discovery/super-market-week"
+      },
+      {
+        "id": 10,
+        "name": "Tap Tap Kotak",
+        "link": "discovery/tap-tap-kotak"
+      },
+      {
+        "id": 11,
+        "name": "Tokopedia Peduli Sehat",
+        "link": "discovery/tokopedia-peduli-sehat"
+      },
+      {
+        "id": 12,
+        "name": "Home Living Salebration",
+        "link": "discovery/home-living-salebration"
+      },
+      {
+        "id": 13,
+        "name": "Super Gadget Day",
+        "link": "discovery/super-gadget-day"
+      },
+      {
+        "id": 14,
+        "name": "Sesama",
+        "link": "discovery/sesama"
+      },
+      {
+        "id": 15,
+        "name": "Kolaborasi Anak Bangsa",
+        "link": "discovery/kolaborasi-anak-bangsa"
+      },
+      {
+        "id": 16,
+        "name": "Tokopedia B2B Digital",
+        "link": "discovery/partner"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Tiket Pesawat",
+    "items": [
+      {
+        "id": 1,
+        "name": "Tiket Pesawat ke Bali",
+        "link": "flight/to/bali"
+      },
+      {
+        "id": 2,
+        "name": "Tiket Pesawat ke Singapure",
+        "link": "flight/to/singapure"
+      },
+      {
+        "id": 3,
+        "name": "Tiket Pesawat ke Medan",
+        "link": "flight/to/medan"
+      },
+      {
+        "id": 4,
+        "name": "Tiket Pesawat ke Jakarta",
+        "link": "flight/to/jakarta"
+      },
+      {
+        "id": 5,
+        "name": "Tiket Pesawat ke Semarang",
+        "link": "flight/to/semarang"
+      },
+      {
+        "id": 6,
+        "name": "Tiket Pesawat ke Surabaya",
+        "link": "flight/to/surabaya"
+      },
+      {
+        "id": 7,
+        "name": "Tiket Pesawat ke Malang",
+        "link": "flight/to/malang"
+      },
+      {
+        "id": 8,
+        "name": "Tiket Pesawat ke London",
+        "link": "flight/to/london"
+      },
+      {
+        "id": 9,
+        "name": "Tiket Pesawat ke Palembang",
+        "link": "flight/to/palembang"
+      },
+      {
+        "id": 10,
+        "name": "Tiket Pesawat ke Makassar",
+        "link": "flight/to/makassar"
+      },
+      {
+        "id": 11,
+        "name": "Tiket Pesawat ke Bandung",
+        "link": "flight/to/bandung"
+      },
+      {
+        "id": 12,
+        "name": "Tiket Pesawat ke Yogyakarta",
+        "link": "flight/to/yogyakarta"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Tiket Kereta",
+    "items": [
+      {
+        "id": 1,
+        "name": "Tiket Kereta Bandung Jakarta",
+        "link": "kereta-api/rute/bandung-jakarta"
+      },
+      {
+        "id": 2,
+        "name": "Tiket Kereta Jakarta Malang",
+        "link": "kereta-api/rute/jakarta-malang"
+      },
+      {
+        "id": 3,
+        "name": "Tiket Kereta Jogja Bandung",
+        "link": "kereta-api/rute/yogyakarta-bandung"
+      },
+      {
+        "id": 4,
+        "name": "Tiket Kereta Jakarta Solo",
+        "link": "kereta-api/rute/jakarta-solo"
+      },
+      {
+        "id": 5,
+        "name": "Tiket Kereta Bandung Surabaya",
+        "link": "kereta-api/rute/bandung-surabaya"
+      },
+      {
+        "id": 6,
+        "name": "Tiket Kereta Surabaya Malang",
+        "link": "kereta-api/rute/surabaya-malang"
+      },
+      {
+        "id": 7,
+        "name": "Tiket Kereta Semarang Malang",
+        "link": "kereta-api/rute/semarang-malang"
+      },
+      {
+        "id": 8,
+        "name": "Tiket Kereta Pekalongan Bandung",
+        "link": "kereta-api/rute/pekalongan-bandung"
+      },
+      {
+        "id": 9,
+        "name": "Tiket Kereta Bekasi Jogja",
+        "link": "kereta-api/rute/bekasi-yogyakarta"
+      },
+      {
+        "id": 10,
+        "name": "Tiket Kereta Kediri Jakarta",
+        "link": "kereta-api/rute/kediri-jakarta"
+      },
+      {
+        "id": 11,
+        "name": "Tiket Kereta Solo Malang",
+        "link": "kereta-api/rute/solo-malang"
+      },
+      {
+        "id": 12,
+        "name": "Tiket Kereta Jogja Kediri",
+        "link": "kereta-api/rute/yogyakarta-kediri"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Hotel",
+    "items": [
+      {
+        "id": 1,
+        "name": "Hotel di Bandung",
+        "link": "hotel/indonesia/city/bandung-20"
+      },
+      {
+        "id": 2,
+        "name": "Hotel di Yogyakarta",
+        "link": "hotel/indonesia/city/yogyakarta-209"
+      },
+      {
+        "id": 3,
+        "name": "Hotel di Bogor",
+        "link": "hotel/indonesia/city/bogor-55112"
+      },
+      {
+        "id": 4,
+        "name": "Hotel di Malang",
+        "link": "hotel/indonesia/city/malang-98"
+      },
+      {
+        "id": 5,
+        "name": "Hotel di Surabaya",
+        "link": "hotel/indonesia/city/surabaya-178"
+      },
+      {
+        "id": 6,
+        "name": "Hotel di Solo",
+        "link": "hotel/indonesia/city/solo-174"
+      },
+      {
+        "id": 7,
+        "name": "Hotel di Jakarta",
+        "link": "hotel/indonesia/city/jakarta-57"
+      },
+      {
+        "id": 8,
+        "name": "Hotel di Medan",
+        "link": "hotel/indonesia/city/medan-111"
+      },
+      {
+        "id": 9,
+        "name": "Hotel di Palembang",
+        "link": "hotel/indonesia/city/palembang-130"
+      },
+      {
+        "id": 10,
+        "name": "Hotel di Makassar",
+        "link": "hotel/indonesia/city/makassar-201"
+      },
+      {
+        "id": 11,
+        "name": "Hotel di Bekasi",
+        "link": "hotel/indonesia/city/bekasi-55157"
+      },
+      {
+        "id": 12,
+        "name": "Hotel di Lombok",
+        "link": "hotel/indonesia/city/lombok-168"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Kartu Prakerja",
+    "items": [
+      {
+        "id": 1,
+        "name": "Luar Sekolah",
+        "link": "kartu-prakerja/partner/luarsekolah"
+      },
+      {
+        "id": 2,
+        "name": "Haruka Edu",
+        "link": "kartu-prakerja/partner/harukaedu"
+      },
+      {
+        "id": 3,
+        "name": "Cakap",
+        "link": "kartu-prakerja/partner/cakap"
+      },
+      {
+        "id": 4,
+        "name": "Skill Academy",
+        "link": "kartu-prakerja/partner/skill-academy"
+      },
+      {
+        "id": 5,
+        "name": "Arkademi",
+        "link": "kartu-prakerja/partner/arkademi"
+      },
+      {
+        "id": 6,
+        "name": "Hacktiv8",
+        "link": "kartu-prakerja/partner/hacktiv8"
+      },
+      {
+        "id": 7,
+        "name": "Baking World",
+        "link": "kartu-prakerja/partner/baking-world"
+      },
+      {
+        "id": 8,
+        "name": "Studilmu",
+        "link": "kartu-prakerja/partner/studilmu-kpk"
+      },
+      {
+        "id": 9,
+        "name": "Rumah Siap Kerja",
+        "link": "kartu-prakerja/partner/rumah-siap-kerja-4"
+      },
+      {
+        "id": 10,
+        "name": "Hellomotion Academy",
+        "link": "kartu-prakerja/partner/hellomotion-academy"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Food & Voucher",
+    "items": [
+      {
+        "id": 1,
+        "name": "Deals",
+        "link": "deals"
+      },
+      {
+        "id": 2,
+        "name": "Deals Jakarta",
+        "link": "deals/jakarta"
+      },
+      {
+        "id": 3,
+        "name": "Deals Bandung",
+        "link": "deals/bandung"
+      },
+      {
+        "id": 4,
+        "name": "Deals Surabaya",
+        "link": "deals/surabaya"
+      },
+      {
+        "id": 5,
+        "name": "Deals Medan",
+        "link": "deals/medan"
+      },
+      {
+        "id": 6,
+        "name": "Deals Bali",
+        "link": "deals/bali"
+      },
+      {
+        "id": 7,
+        "name": "KFC",
+        "link": "deals/b/kfc-3351"
+      },
+      {
+        "id": 8,
+        "name": "Kintan",
+        "link": "deals/b/kintan-2181"
+      },
+      {
+        "id": 9,
+        "name": "Shaburi",
+        "link": "deals/b/shaburi-2182"
+      },
+      {
+        "id": 10,
+        "name": "McD",
+        "link": "deals/b/mcdonalds-3124"
+      },
+      {
+        "id": 11,
+        "name": "Pizza Hut",
+        "link": "deals/b/pizza-hut-delivery-phd-2501"
+      },
+      {
+        "id": 12,
+        "name": "Yoshinoya",
+        "link": "deals/b/yoshinoya-3379"
+      },
+      {
+        "id": 13,
+        "name": "Shabu Hachi",
+        "link": "deals/b/shabuhachi-2182"
+      },
+      {
+        "id": 14,
+        "name": "Domino Pizza",
+        "link": "deals/b/dominos-pizza-2526"
+      },
+      {
+        "id": 15,
+        "name": "Golden Lamian",
+        "link": "deals/b/golden-lamian-1734"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Produk Digital",
+    "items": [
+      {
+        "id": 1,
+        "name": "Voucher Game Unipin",
+        "link": "voucher-game/unipin"
+      },
+      {
+        "id": 2,
+        "name": "Voucher Game Steam",
+        "link": "voucher-game/steam"
+      },
+      {
+        "id": 3,
+        "name": "Free Fire",
+        "link": "voucher-game/free-fire"
+      },
+      {
+        "id": 4,
+        "name": "Mobile Legends",
+        "link": "voucher-game/mobile-legends"
+      },
+      {
+        "id": 5,
+        "name": "Voucher Game Codashop",
+        "link": "voucher-game/codashop"
+      },
+      {
+        "id": 6,
+        "name": "Voucher GooglePlay",
+        "link": "voucher-game/googleplay"
+      },
+      {
+        "id": 7,
+        "name": "Voucher Game Garena",
+        "link": "voucher-game/garena"
+      },
+      {
+        "id": 8,
+        "name": "Voucher Point Blank",
+        "link": "voucher-game/point-blank"
+      },
+      {
+        "id": 9,
+        "name": "Voucher Game Gemscool",
+        "link": "voucher-game/gemscool"
+      },
+      {
+        "id": 10,
+        "name": "Voucher Itunes",
+        "link": "voucher-game/itunes"
+      },
+      {
+        "id": 11,
+        "name": "Beli Pulsa Simpati",
+        "link": "pulsa/simpati"
+      },
+      {
+        "id": 12,
+        "name": "Beli Pulsa AS",
+        "link": "pulsa/as"
+      },
+      {
+        "id": 13,
+        "name": "Beli Pulsa XL",
+        "link": "pulsa/xl"
+      },
+      {
+        "id": 14,
+        "name": "Beli Pulsa IM3",
+        "link": "pulsa/im3"
+      },
+      {
+        "id": 15,
+        "name": "Beli Pulsa Smartfren",
+        "link": "pulsa/smartfren"
+      },
+      {
+        "id": 16,
+        "name": "Beli Pulsa Tri",
+        "link": "pulsa/tri"
+      },
+      {
+        "id": 17,
+        "name": "Beli Paket Data Telkomsel",
+        "link": "paket-data/telkomsel"
+      },
+      {
+        "id": 18,
+        "name": "Beli Paket Data Axis",
+        "link": "paket-data/axis"
+      },
+      {
+        "id": 19,
+        "name": "Beli Indosat",
+        "link": "paket-data/indosat"
+      },
+      {
+        "id": 20,
+        "name": "Beli Token Listrik",
+        "link": "pln/token-listrik"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Fintech",
+    "items": [
+      {
+        "id": 1,
+        "name": "Pinjaman Tanpa BI Checking",
+        "link": "pinjaman-online/"
+      },
+      {
+        "id": 2,
+        "name": "Pinjaman Jaminan BPKB",
+        "link": "pinjaman-online/c/agunan-bpkb"
+      },
+      {
+        "id": 3,
+        "name": "Pinjaman Online Cepat Cair",
+        "link": "pinjaman-online/landing-dana-instant"
+      },
+      {
+        "id": 4,
+        "name": "Pinjaman KTA Tanpa Kartu Kredit",
+        "link": "pinjaman-online/c/kta-tanpa-cc"
+      },
+      {
+        "id": 5,
+        "name": "Pinjaman Pribadi",
+        "link": "pinjaman-online/c/pribadi"
+      },
+      {
+        "id": 6,
+        "name": "Pinjaman Karyawan",
+        "link": "pinjaman-online/c/karyawan"
+      },
+      {
+        "id": 7,
+        "name": "Pinjaman Penndidikan",
+        "link": "pinjaman-online/c/pinjaman-pendidikan"
+      },
+      {
+        "id": 8,
+        "name": "Pinjaman Non Bank",
+        "link": "pinjaman-online/c/non-bank"
+      },
+      {
+        "id": 9,
+        "name": "Pinjaman Adira Finance",
+        "link": "pinjaman-online/adira"
+      },
+      {
+        "id": 10,
+        "name": "Syailendra Dana Kas",
+        "link": "reksa-dana/detail/i/syailendra-dana-kas"
+      },
+      {
+        "id": 11,
+        "name": "Mandiri Pasar Uang Syariah Ekstra",
+        "link": "reksa-dana/detail/i/mandiri-syariah"
+      },
+      {
+        "id": 12,
+        "name": "Proteksi Gadget",
+        "link": "asuransi/proteksi/gadget"
+      },
+      {
+        "id": 13,
+        "name": "Proteksi Elektronik",
+        "link": "asuransi/proteksi/elektronik"
+      },
+      {
+        "id": 14,
+        "name": "Proteksi Tagihan",
+        "link": "asuransi/proteksi/tagihan/"
+      },
+      {
+        "id": 15,
+        "name": "Harga Emas Hari Ini",
+        "link": "emas/harga-hari-ini"
+      },
+      {
+        "id": 16,
+        "name": "Kartu Kredit Bank MNC",
+        "link": "kartu-kredit/bank/mnc"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Tokopedia Salam",
+    "items": [
+      {
+        "id": 1,
+        "name": "Zakat Fitrah",
+        "link": "s/zakat-fitrah"
+      },
+      {
+        "id": 2,
+        "name": "Donasi",
+        "link": "s/donasi"
+      },
+      {
+        "id": 3,
+        "name": "Produk Halal",
+        "link": "s/halal"
+      },
+      {
+        "id": 4,
+        "name": "Qurban",
+        "link": "s/qurban"
+      },
+      {
+        "id": 5,
+        "name": "Jadwal Sholat Bandung",
+        "link": "s/jadwal-sholat/bandung"
+      },
+      {
+        "id": 6,
+        "name": "Jadwal Sholat Surabaya",
+        "link": "s/jadwal-sholat/surabaya"
+      },
+      {
+        "id": 7,
+        "name": "Jadwal Sholat Malang",
+        "link": "s/jadwal-sholat/malang"
+      },
+      {
+        "id": 8,
+        "name": "Jadwal Sholat Semarang",
+        "link": "s/jadwal-sholat/semarang"
+      },
+      {
+        "id": 9,
+        "name": "Jadwal Sholat Medan",
+        "link": "s/jadwal-sholat/medan"
+      },
+      {
+        "id": 10,
+        "name": "Juz Amma Online",
+        "link": "s/quran/konten/juz-amma"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Tokopedia Find",
+    "items": [
+      {
+        "id": 1,
+        "name": "Masker Terlengkap",
+        "link": "find/masker"
+      },
+      {
+        "id": 2,
+        "name": "Masker Kain Terlengkap",
+        "link": "find/masker-kain"
+      },
+      {
+        "id": 3,
+        "name": "Face Shield Terlengkap",
+        "link": "find/face-shield"
+      },
+      {
+        "id": 4,
+        "name": "Smartphone Samsung Terbaru",
+        "link": "find/handphone-samsung"
+      },
+      {
+        "id": 5,
+        "name": "iPhone Terbaru",
+        "link": "find/iphone-baru"
+      },
+      {
+        "id": 6,
+        "name": "Smartphone Oppo Terbaru",
+        "link": "find/handphone-oppo"
+      },
+      {
+        "id": 7,
+        "name": "Smartphone Realme Terbaru",
+        "link": "find/handphone-realme"
+      },
+      {
+        "id": 8,
+        "name": "Aneka Tanaman Hias Terbaru",
+        "link": "find/tanaman-hias"
+      },
+      {
+        "id": 9,
+        "name": "Aneka Sepeda Lipat Terbaru",
+        "link": "find/sepeda-lipat"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Tokopedia Blog",
+    "items": [
+      {
+        "id": 1,
+        "name": "Cara Menggabungkan File PDF",
+        "link": "blog/cara-menggabungkan-file-pdf-tek"
+      },
+      {
+        "id": 2,
+        "name": "Manfaat Daun Kelor",
+        "link": "blog/manfaat-daun-kelor-hlt"
+      },
+      {
+        "id": 3,
+        "name": "Tekanan Darah Normal",
+        "link": "blog/tekanan-darah-normal-hlt"
+      },
+      {
+        "id": 4,
+        "name": "Cara Mengecilkan Perut",
+        "link": "blog/cara-mengecilkan-perut-hlt"
+      },
+      {
+        "id": 5,
+        "name": "Diet Sehat",
+        "link": "blog/diet-sehat-hlt"
+      },
+      {
+        "id": 6,
+        "name": "Manfaat Minyak Zaitun",
+        "link": "blog/manfaat-minyak-zaitun-hlt"
+      },
+      {
+        "id": 7,
+        "name": "Power Bank Terbaik",
+        "link": "blog/top-power-bank-terbaik-tek"
+      },
+      {
+        "id": 8,
+        "name": "The Ordinary Peeling Solution",
+        "link": "blog/review-the0ordinary-peeling-solution-bty"
+      },
+      {
+        "id": 9,
+        "name": "Contoh CV Fresh Graduate",
+        "link": "blog/contoh-cv-untuk-fresh-graduate-krj"
+      },
+      {
+        "id": 10,
+        "name": "Keuntungan Reksa Dana",
+        "link": "blog/fin-manfaat-dan-keuntungan-investasi-reksadana"
+      },
+      {
+        "id": 11,
+        "name": "Tempat Wisata di Bandung",
+        "link": "blog/tempat-wisata-kota-bandung"
+      },
+      {
+        "id": 12,
+        "name": "Makanan Khas Daerah",
+        "link": "blog/makanan-khas-daerah-indonesia-tvl"
+      }
+    ]
+  }
+]

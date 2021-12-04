@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "img": "buku",
+    "title": "Buku"
+  },
+  {
+    "id": 2,
+    "img": "dapur",
+    "title": "Dapur"
+  },
+  {
+    "id": 3,
+    "img": "elektronik",
+    "title": "elektronik"
+  },
+  {
+    "id": 4,
+    "img": "fashion-pria",
+    "title": "Fashion Pria"
+  },
+  {
+    "id": 5,
+    "img": "fashion-wanita",
+    "title": "Fashion Wanita"
+  },
+  {
+    "id": 6,
+    "img": "fashion-muslim",
+    "title": "Fashion Muslim"
+  },
+  {
+    "id": 7,
+    "img": "fashion-anak-bayi",
+    "title": "Fashion Anak Bayi"
+  },
+  {
+    "id": 8,
+    "img": "film-musik",
+    "title": "Film & Musik"
+  },
+  {
+    "id": 9,
+    "img": "gaming",
+    "title": "Gaming"
+  },
+  {
+    "id": 10,
+    "img": "handphone-tablet",
+    "title": "Handphone & Tablet"
+  },
+  {
+    "id": 11,
+    "img": "komputer-laptop",
+    "title": "Komputer & Laptop"
+  },
+  {
+    "id": 12,
+    "img": "kamera",
+    "title": "Kamera"
+  },
+  {
+    "id": 13,
+    "img": "ibu-bayi",
+    "title": "Ibu & Bayi"
+  },
+  {
+    "id": 14,
+    "img": "kecantikan",
+    "title": "Kecantikan"
+  },
+  {
+    "id": 15,
+    "img": "kesehatan",
+    "title": "Kesehatan"
+  },
+  {
+    "id": 16,
+    "img": "rumah-tangga",
+    "title": "Rumah Tangga"
+  },
+  {
+    "id": 17,
+    "img": "perawatan-hewan",
+    "title": "Perawatan & Hewan"
+  },
+  {
+    "id": 18,
+    "img": "mainan-hobi",
+    "title": "Mainan & Hobi"
+  },
+  {
+    "id": 19,
+    "img": "olahraga",
+    "title": "Olahraga"
+  },
+  {
+    "id": 20,
+    "img": "office-stationery",
+    "title": "Office & Stationery"
+  },
+  {
+    "id": 21,
+    "img": "pertukangan",
+    "title": "Pertukangan"
+  },
+  {
+    "id": 22,
+    "img": "perlengkapan-pesta-craft",
+    "title": "Perlengkapan Pesta & Craft"
+  }
+]

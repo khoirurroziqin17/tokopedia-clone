@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "discount": 100,
+    "priceBefore": 205900,
+    "img": "traktiran1",
+    "icon": "os",
+    "location": "Kota Surabaya",
+    "progress": 98,
+    "desc": "sh"
+  },
+  {
+    "id": 2,
+    "discount": 100,
+    "priceBefore": 30000,
+    "img": "traktiran2",
+    "icon": "pro",
+    "location": "Kota Surabaya",
+    "progress": 98,
+    "desc": "sh"
+  },
+  {
+    "id": 3,
+    "discount": 100,
+    "priceBefore": 40000,
+    "img": "traktiran3",
+    "icon": "pro",
+    "location": "Kab. Bekasi",
+    "progress": 96,
+    "desc": "sh"
+  },
+  {
+    "id": 4,
+    "discount": 100,
+    "priceBefore": 30000,
+    "img": "traktiran4",
+    "icon": "gold",
+    "location": "Kota Surabaya",
+    "progress": 96,
+    "desc": "sh"
+  },
+  {
+    "id": 5,
+    "discount": 100,
+    "priceBefore": 30000,
+    "img": "traktiran5",
+    "icon": "gold",
+    "location": "Kota Bandung",
+    "progress": 96,
+    "desc": "sh"
+  },
+  {
+    "id": 6,
+    "discount": 100,
+    "priceBefore": 40000,
+    "img": "traktiran6",
+    "icon": "gold",
+    "location": "Kota Makassar",
+    "progress": 96,
+    "desc": "sh"
+  },
+  {
+    "id": 7,
+    "discount": 100,
+    "priceBefore": 35000,
+    "img": "traktiran7",
+    "icon": "pro",
+    "location": "Kota Palembang",
+    "progress": 95,
+    "desc": "sh"
+  },
+  {
+    "id": 8,
+    "discount": 100,
+    "priceBefore": 79900,
+    "img": "traktiran8",
+    "icon": "os",
+    "location": "Jakarta Timur",
+    "progress": 93,
+    "desc": "ld"
+  },
+  {
+    "id": 9,
+    "discount": 100,
+    "priceBefore": 30300,
+    "img": "traktiran9",
+    "icon": "pro",
+    "location": "Kota Palembang",
+    "progress": 92,
+    "desc": "ld"
+  },
+  {
+    "id": 10,
+    "discount": 100,
+    "priceBefore": 30000,
+    "img": "traktiran10",
+    "icon": "pro",
+    "location": "Kota Palembang",
+    "progress": 90,
+    "desc": "sh"
+  },
+  {
+    "id": 11,
+    "discount": 100,
+    "priceBefore": 30000,
+    "img": "traktiran11",
+    "icon": "pro",
+    "location": "Kota Malang",
+    "progress": 90,
+    "desc": "sh"
+  },
+  {
+    "id": 12,
+    "discount": 100,
+    "priceBefore": 50000,
+    "img": "traktiran12",
+    "icon": "pro",
+    "location": "Kota Palembang",
+    "progress": 83,
+    "desc": "sh"
+  },
+  {
+    "id": 13,
+    "discount": 100,
+    "priceBefore": 39000,
+    "img": "traktiran13",
+    "icon": "pro",
+    "location": "Kota Malang",
+    "progress": 83,
+    "desc": "sh"
+  },
+  {
+    "id": 14,
+    "discount": 100,
+    "priceBefore": 31000,
+    "img": "traktiran14",
+    "icon": "pro",
+    "location": "Kota Surabaya",
+    "progress": 80,
+    "desc": "sh"
+  },
+  {
+    "id": 15,
+    "discount": 100,
+    "priceBefore": 30000,
+    "img": "traktiran15",
+    "icon": "pro",
+    "location": "Kota Medan",
+    "progress": 80,
+    "desc": "sh"
+  },
+  {
+    "id": 16,
+    "discount": 100,
+    "priceBefore": 89900,
+    "img": "traktiran16",
+    "icon": "os",
+    "location": "Jakarta Timur",
+    "progress": 79,
+    "desc": "ld"
+  },
+  {
+    "id": 17,
+    "discount": 100,
+    "priceBefore": 31900,
+    "img": "traktiran17",
+    "icon": "os",
+    "location": "Kab. Tangerang",
+    "progress": 78,
+    "desc": "ld"
+  },
+  {
+    "id": 18,
+    "discount": 100,
+    "priceBefore": 30000,
+    "img": "traktiran18",
+    "icon": "pro",
+    "location": "Kota Palembang",
+    "progress": 76,
+    "desc": "ld"
+  },
+  {
+    "id": 19,
+    "discount": 100,
+    "priceBefore": 260000,
+    "img": "traktiran19",
+    "icon": "os",
+    "location": "Jakarta Barat",
+    "progress": 75,
+    "desc": "ld"
+  },
+  {
+    "id": 20,
+    "discount": 100,
+    "priceBefore": 29900,
+    "img": "traktiran20",
+    "icon": "pro",
+    "location": "Kota Palembang",
+    "progress": 75,
+    "desc": "ld"
+  }
+]

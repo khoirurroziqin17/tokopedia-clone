@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "img": "diskon1",
+    "priceBefore": "253.000",
+    "price": "98.999",
+    "discount": 61,
+    "icon": "os",
+    "location": "Kab. Tangerang",
+    "progress": 95,
+    "desc": "sh"
+  },
+  {
+    "id": 2,
+    "img": "diskon2",
+    "priceBefore": "229.000",
+    "price": "84.000",
+    "discount": 63,
+    "icon": "os",
+    "location": "Kota Surabaya",
+    "progress": 95,
+    "desc": "sh"
+  },
+  {
+    "id": 3,
+    "img": "diskon3",
+    "priceBefore": "88.400",
+    "price": "61.000",
+    "discount": 31,
+    "icon": "os",
+    "location": "Jakarta Timur",
+    "progress": 93,
+    "desc": "sh"
+  },
+  {
+    "id": 4,
+    "img": "diskon4",
+    "priceBefore": "100.500",
+    "price": "45.000",
+    "discount": 55,
+    "icon": "os",
+    "location": "Jakarta Barat",
+    "progress": 91,
+    "desc": "sh"
+  },
+  {
+    "id": 5,
+    "img": "diskon5",
+    "priceBefore": "115.000",
+    "price": "67.700",
+    "discount": 41,
+    "icon": "os",
+    "location": "Kota Tangerang Selatan",
+    "progress": 90,
+    "desc": "sh"
+  },
+  {
+    "id": 6,
+    "img": "diskon6",
+    "priceBefore": "74.000",
+    "price": "50.000",
+    "discount": 32,
+    "icon": "os",
+    "location": "Kab. Tangerang",
+    "progress": 87,
+    "desc": "sh"
+  },
+  {
+    "id": 7,
+    "img": "diskon7",
+    "priceBefore": "449.000",
+    "price": "161.640",
+    "discount": 64,
+    "icon": "os",
+    "location": "Jakarta Pusat",
+    "progress": 85,
+    "desc": "sh"
+  },
+  {
+    "id": 8,
+    "img": "diskon8",
+    "priceBefore": "249.000",
+    "price": "80.000",
+    "discount": 68,
+    "icon": "pro",
+    "location": "Jakarta Barat",
+    "progress": 82,
+    "desc": "sh"
+  },
+  {
+    "id": 9,
+    "img": "diskon9",
+    "priceBefore": "81.600",
+    "price": "50.000",
+    "discount": 39,
+    "icon": "os",
+    "location": "Jakarta Timur",
+    "progress": 72,
+    "desc": "ld"
+  },
+  {
+    "id": 10,
+    "img": "diskon10",
+    "priceBefore": "109.000",
+    "price": "50.000",
+    "discount": 54,
+    "icon": "os",
+    "location": "Kota Bandung",
+    "progress": 70,
+    "desc": "ld"
+  }
+]
