@@ -19,12 +19,12 @@ function BodyPromo({ colorClass, img, children }) {
         />
       )}
       <div
-        className="flex items-center overflow-x-auto z-10 scrollbar-none pb-1 -ml-36"
+        className="flex items-center overflow-x-auto z-10 scrollbar-none pb-1  -ml-48"
         ref={slider}
         onScroll={() => scrollSlider()}
       >
         <div className="grid grid-flow-col gap-x-2 mx-4">
-          <div className="w-[132px]" />
+          <div className="w-[184px]" />
           {children}
           <div
             className={`w-[132px] flex flex-col justify-center items-center text-center text-[#03AC0E] rounded-lg bg-white ${

@@ -42,10 +42,10 @@ export default function Home() {
               placeholder="Cari meja komputer"
             />
           </div>
-          <UilEnvelope color="white" />
-          <UilBell color="white" />
-          <UilShoppingCart color="white" />
-          <UilBars color="white" />
+          <UilEnvelope size={24} color="white" />
+          <UilBell size={24} color="white" />
+          <UilShoppingCart size={24} color="white" />
+          <UilBars size={24} color="white" />
         </div>
         <div className="flex items-center space-x-1 text-white px-4 pt-2">
           <UilLocationPoint size="14" />
@@ -242,11 +242,32 @@ export default function Home() {
         <div className="h-2 bg-gray-100" />
         <div className="py-2">
           <div className="sticky top-0 z-10 flex py-[10px] pl-3 bg-white overflow-x-auto scrollbar-none">
-            <ButtonRecom title="For You" bgClass="btn-rec1" active="true" />
-            <ButtonRecom title="Special Discount" bgClass="btn-rec2" />
-            <ButtonRecom title="Perlengkapan Ibadah" bgClass="btn-rec3" />
-            <ButtonRecom title="Outerwear Wanita" bgClass="btn-rec4" />
-            <ButtonRecom title="TV & Aksesories" bgClass="btn-rec5" />
+            <ButtonRecom
+              title="For You"
+              bgColor1="#8e1f63"
+              bgColor2="#d22495"
+              active="true"
+            />
+            <ButtonRecom
+              title="Special Discount"
+              bgColor1="#282164"
+              bgColor2="#781fb5"
+            />
+            <ButtonRecom
+              title="Perlengkapan Ibadah"
+              bgColor1="#e6831d"
+              bgColor2="#ffc001"
+            />
+            <ButtonRecom
+              title="Outerwear Wanita"
+              bgColor1="#8e1f63"
+              bgColor2="#d22495"
+            />
+            <ButtonRecom
+              title="TV & Aksesories"
+              bgColor1="#028444"
+              bgColor2="#41b24a"
+            />
           </div>
           <div className="flex gap-2 px-3">
             <div className="flex flex-col gap-2">
